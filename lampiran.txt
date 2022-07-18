@@ -1,0 +1,1 @@
+Ini contoh lampiran berformat txt yang dikirim melalui python
